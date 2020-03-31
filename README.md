@@ -2,6 +2,9 @@
 
 Opening doors without touching the doorknob or handle can reduce the risk of infection! This project started as a part of [#CodeVSCovid19](https://www.codevscovid19.org/) hackaton organized in an effort to fight the current `COVID-19` crisis
 
+[CodeVSCovid19 Project](https://devpost.com/software/door-opening-project/)
+[YouTube Video](https://www.youtube.com/watch?v=AZzj4fFjVhg/)
+
 ## Challenge
 
 Under normal circumstances, we go about our lives, not noticing how many doors we are opening and closing in our daily routine. Public door knobs and handles are touched by many people, which makes them a high risk of contamination. In a time of the pandemic, doors have become obstacles: how can you open a door without touching a handle without an expensive electronic system?
