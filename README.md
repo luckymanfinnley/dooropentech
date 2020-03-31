@@ -1,6 +1,6 @@
 # Doors Hands-Free
 
-Opening doors without touching the doorknob or handle can reduce the risk of infection! This project is a part of [#CodeVSCovid19](https://www.codevscovid19.org/) hackaton organized in an effort to fight the current `COVID-19` crisis
+Opening doors without touching the doorknob or handle can reduce the risk of infection! This project started as a part of [#CodeVSCovid19](https://www.codevscovid19.org/) hackaton organized in an effort to fight the current `COVID-19` crisis
 
 ## Challenge
 
@@ -24,6 +24,7 @@ Jonathan Arthur
 Andreas Horvath
 Andres N.
 Ruslan Komjakov
+Thaine Fuller - After Hackathon
 
 **Join us!**
 
