@@ -2,8 +2,9 @@
 
 Opening doors without touching the doorknob or handle can reduce the risk of infection! This project started as a part of [#CodeVSCovid19](https://www.codevscovid19.org/) hackaton organized in an effort to fight the current `COVID-19` crisis
 
-[CodeVSCovid19 Project](https://devpost.com/software/door-opening-project/)
-[YouTube Video](https://www.youtube.com/watch?v=AZzj4fFjVhg/)
+[CodeVSCovid19 Project](https://devpost.com/software/door-opening-project/) <br>
+
+[YouTube Video](https://www.youtube.com/watch?v=AZzj4fFjVhg/) <br>
 
 ## Challenge
 
